@@ -1,4 +1,4 @@
-![logo](https://github.com/Anurag1993-git/Anurag1993-git/blob/main/Github%20banner.jpg | width=100)
+![logo](https://github.com/Anurag1993-git/Anurag1993-git/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
 <h3 align="center">A passionate python developer with both front and backend from India</h3>
 
