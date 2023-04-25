@@ -1,5 +1,6 @@
 
-![Github banner](https://user-images.githubusercontent.com/131434031/234226461-00de5989-faab-4f03-b979-b43f3ee60309.png)
+(![Github banner](https://user-images.githubusercontent.com/131434031/234228074-c6ae68b9-da0e-4a08-8ee1-77133620d7be.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
