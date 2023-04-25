@@ -1,4 +1,5 @@
-![Github image](https://user-images.githubusercontent.com/131434031/234217276-84ba82e1-0252-40fa-9d47-cba274572365.png)
+(![Github banner](https://user-images.githubusercontent.com/131434031/234218745-959a7a14-f31e-480c-9d59-882677db4386.png)
+)
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
 <h3 align="center">A passionate python developer with both front and backend from India</h3>
 
