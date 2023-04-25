@@ -1,5 +1,5 @@
 <p align="center"></p>
-(![Github banner](https://user-images.githubusercontent.com/131434031/234225836-dba30869-aaeb-47ba-b253-a6eec9c99d95.png)
+(![logo](https://user-images.githubusercontent.com/131434031/234225836-dba30869-aaeb-47ba-b253-a6eec9c99d95.png)
 
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
 <h3 align="center">A passionate python developer with both front and backend from India</h3>
