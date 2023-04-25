@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"></p>
 (![Github banner](https://user-images.githubusercontent.com/131434031/234218745-959a7a14-f31e-480c-9d59-882677db4386.png)
 )
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
