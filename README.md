@@ -1,4 +1,4 @@
-<p align="center"></p>
+
 ![Github banner](https://user-images.githubusercontent.com/131434031/234226461-00de5989-faab-4f03-b979-b43f3ee60309.png)
 
 
