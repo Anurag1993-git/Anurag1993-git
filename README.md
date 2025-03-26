@@ -1,7 +1,7 @@
 ![logo]
 ![Github banner](https://user-images.githubusercontent.com/131434031/234228894-5e208286-256b-448b-b93b-694bce620c76.png)
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
-<h3 align="center">A passionate python developer with both front and backend from India</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
