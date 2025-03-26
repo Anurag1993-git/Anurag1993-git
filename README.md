@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![github logo](https://github.com/user-attachments/assets/c0fbd209-2ae8-4984-be26-7cbf8e256afa)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
