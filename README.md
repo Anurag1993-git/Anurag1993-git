@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
-- 🌱 I’m currently learning **Languages: python,javasript, Libraries: Numpy, Pandas, Matplotlib, Databases: MYSQL,VCS for deployment, IDE:VSCode**
+- 🌱 I’m currently learning **Languages: python, Libraries: Numpy, Pandas, Matplotlib, Databases: MYSQL, Data Reporting tool:Microsoft Excel, Data Visualization: Power BI, VCS for deployment, IDE:VSCode**
 
 - 📫 How to reach me **anuragkaushik867@gmail.com**
 
