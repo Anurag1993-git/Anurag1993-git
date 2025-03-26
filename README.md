@@ -4,7 +4,8 @@
 ![My Linkedin banner](https://github.com/user-attachments/assets/4019906d-1c3c-4158-ab66-a73051e62dca)
 
 
-<img align="right" alt="My Data Analytics" width="400" src="https://abdulazeezanalytics.medium.com/dont-learn-data-analytics-in-30-days-b298130d359b">
+<img align="right" alt="My Data Analytics" width="400" src="![Data Analytics github logo](https://github.com/user-attachments/assets/537ca8e4-0c47-4980-b86e-91c077366288)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
 - 🌱 I’m currently learning **Python, Matplotlib, NumPy and Power Bi**
