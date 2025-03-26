@@ -3,8 +3,7 @@
 
 ![My Linkedin banner](https://github.com/user-attachments/assets/4019906d-1c3c-4158-ab66-a73051e62dca)
 
-
-![Data Analytics github logo](https://github.com/user-attachments/assets/1abf29de-097c-4117-87b1-b56d883a4f62)
+![Data Analytics gif](https://github.com/user-attachments/assets/05f52cd5-76b8-4c90-9d66-4a344095dd3c)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
