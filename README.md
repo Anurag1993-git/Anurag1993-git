@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cheruvu Anurag Kaushik</h1>
 <h3 align="center">📊 An aspiring and passionate Data Enthusiast</h3>
-<img align="right" alt="My Data Analytics gif" width="400" src="https://abdulazeezanalytics.medium.com/dont-learn-data-analytics-in-30-days-b298130d359b">
+<img align="right" alt="My Data Analytics" width="400" src="https://abdulazeezanalytics.medium.com/dont-learn-data-analytics-in-30-days-b298130d359b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
 - 🌱 I’m currently learning **Python, Matplotlib, NumPy and Power Bi**
